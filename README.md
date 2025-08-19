@@ -1,3 +1,8 @@
+<!-- ✨ GIF Banner at Top -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animated banner" />
+</p>
+
 <!-- 🎬 Video Banner -->
 <p align="center">
   <video width="100%" autoplay loop muted>
