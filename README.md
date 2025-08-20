@@ -1,6 +1,6 @@
 <!-- ✨ GIF Banner at Top -->
 <p align="center">
-  <img src="(https://camo.githubusercontent.com/84f9d24f2448feec6031f63c6867562d2ba77af7324ead540bcfac0a6397539c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313233353334362f73637265656e73686f74732f333235323338352f6a6f622e676966)" alt="animated banner" />
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animated banner" />
 </p>
 
 <!-- 🎬 Video Banner -->
