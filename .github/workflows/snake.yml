@@ -5,19 +5,20 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (dark hacker theme)
         uses: Platane/snk@v3
         with:
           github_user_name: madhan36363
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00ff00&color_dots=#0f2027,#00ff99,#00ff99,#00ff99,#00ff99
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&color_snake=00ff00&color_dots=#0f2027,#00ff99,#00ff99,#00ff99,#00ff99
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
