@@ -10,43 +10,120 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhan36363&label=Profile%20Views&color=00ff99&style=flat" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284079-56f8b4d4-8a7c-4c77-9a41-0cfaeabf5f3e.gif" width="100%" />
-
 ---
 
-## 💫 <span style="color:#00ff99">About Me</span>
-
+# 💫 About Me:
 👋 **Hey there, I'm Madhan P**  
 🛡️ **Aspiring Cybersecurity Analyst & Data Analytics Enthusiast**  
 Passionate about defending systems, hunting threats, and turning raw data into meaningful insights.
 
-> ⚠️ **Cyber Alert:** Actively building tools for ransomware detection, malware analysis & real-time monitoring.
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284079-56f8b4d4-8a7c-4c77-9a41-0cfaeabf5f3e.gif" width="100%" />
+## 🚀 Upcoming Roles
+* 🛡️ Cyber Security Analyst  
+* 📊 Data Analyst  
+* 👨‍💻 IT / Software Developer  
 
 ---
 
-## 🚀 <span style="color:#00ff99">Upcoming Roles</span>
-
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-Analyst-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data-Analyst-00bfff?style=for-the-badge&logo=databricks&logoColor=black"/>
-  <img src="https://img.shields.io/badge/IT-Developer-ffcc00?style=for-the-badge&logo=codeforces&logoColor=black"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284079-56f8b4d4-8a7c-4c77-9a41-0cfaeabf5f3e.gif" width="100%" />
-
----
-
-## 🛠️ <span style="color:#00ff99">Currently Working On</span>
-
+## 🛠️ Currently Working On
 * 🔐 **Real-time Ransomware Detection Tool** — hash-based & behavior analysis  
 * 📱 **Women’s Safety Android App** — SOS, GPS tracking & alerts  
 * 🤖 **Personal PC Assistant (Lite JARVIS)** — voice automation using Python  
 
-```bash
-[ STATUS ] >> Building | Securing | Automating | Analyzing
+---
+
+## 🤝 Looking to Collaborate On
+* 🧪 Malware analysis, ethical hacking & cybersecurity tools  
+* 🌐 Secure full-stack apps using Python, Java & Kotlin  
+* 📉 Data analytics dashboards & visualizations  
+
+---
+
+## ❓ Looking For Help With
+* 🔍 Reverse engineering & deep malware behavior analysis  
+* 🔔 Real-time monitoring & backend optimization  
+* ⚙️ Android performance & battery optimization  
+
+---
+
+## 📚 Currently Learning
+* 🧬 Threat hunting & malware forensics  
+* ☁️ Secure cloud: Firebase & Supabase  
+* 📊 Python visualization: Matplotlib, Seaborn, Plotly  
+* 🛡️ SOC, SIEM & log analysis  
+
+---
+
+## 💬 Ask Me About
+* 🛡️ Cyber threat detection & automation  
+* 📊 Data analysis with Python  
+* 📲 Safety-focused Android development  
+* 🗣️ Voice-controlled PC automation  
+
+---
+
+## 🎯 Fun Fact
+I love turning bold ideas into real security tools —  
+from smart assistants to malware scanners.  
+Tech should be **useful, powerful & a little magical ✨**
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhanpofficial/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhan.p0066@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=madhan36363&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=madhan36363&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhan36363&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=madhan36363&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 📌 Featured Projects
+
+<a href="https://github.com/madhan36363/ransomware-detection-tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhan36363&repo=ransomware-detection-tool&theme=dark" />
+</a>
+
+<a href="https://github.com/madhan36363/women-safety-android-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhan36363&repo=women-safety-android-app&theme=dark" />
+</a>
+
+<a href="https://github.com/madhan36363/pc-voice-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhan36363&repo=pc-voice-assistant&theme=dark" />
+</a>
+
+<a href="https://github.com/madhan36363/data-analytics-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhan36363&repo=data-analytics-dashboard&theme=dark" />
+</a>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/madhan36363/madhan36363/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=madhan36363&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly crafted for Madhan P -->
