@@ -99,25 +99,6 @@ Tech should be **useful, powerful & a little magical ✨**
 
 ---
 
-## 📌 Featured Projects
-
-<a href="https://github.com/madhan36363/ransomware-detection-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhan36363&repo=ransomware-detection-tool&theme=dark" />
-</a>
-
-<a href="https://github.com/madhan36363/women-safety-android-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhan36363&repo=women-safety-android-app&theme=dark" />
-</a>
-
-<a href="https://github.com/madhan36363/pc-voice-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhan36363&repo=pc-voice-assistant&theme=dark" />
-</a>
-
-<a href="https://github.com/madhan36363/data-analytics-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhan36363&repo=data-analytics-dashboard&theme=dark" />
-</a>
-
----
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/madhan36363/madhan36363/blob/output/github-contribution-grid-snake.svg)
