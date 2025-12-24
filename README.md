@@ -16,14 +16,22 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284079-56f8b4d4-8a7c-4c77-9a41-0cfaeabf5f3e.gif" width="100%" />
 
-# 💫 About Me:
+---
+
+## 💫 <span style="color:#00ff99">About Me</span>
+
 👋 **Hey there, I'm Madhan P**  
 🛡️ **Aspiring Cybersecurity Analyst & Data Analytics Enthusiast**  
 Passionate about defending systems, hunting threats, and turning raw data into meaningful insights.
 
+> ⚠️ **Cyber Alert:** Actively building tools for ransomware detection, malware analysis & real-time monitoring.
+
 <img src="https://user-images.githubusercontent.com/74038190/212284079-56f8b4d4-8a7c-4c77-9a41-0cfaeabf5f3e.gif" width="100%" />
 
-## 🚀 Upcoming Roles  
+---
+
+## 🚀 <span style="color:#00ff99">Upcoming Roles</span>
+
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-Analyst-00ff99?style=for-the-badge&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Data-Analyst-00bfff?style=for-the-badge&logo=databricks&logoColor=black"/>
@@ -32,30 +40,13 @@ Passionate about defending systems, hunting threats, and turning raw data into m
 
 <img src="https://user-images.githubusercontent.com/74038190/212284079-56f8b4d4-8a7c-4c77-9a41-0cfaeabf5f3e.gif" width="100%" />
 
-## 🛠️ Currently Working On  
+---
+
+## 🛠️ <span style="color:#00ff99">Currently Working On</span>
+
 * 🔐 **Real-time Ransomware Detection Tool** — hash-based & behavior analysis  
 * 📱 **Women’s Safety Android App** — SOS, GPS tracking & alerts  
 * 🤖 **Personal PC Assistant (Lite JARVIS)** — voice automation using Python  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284079-56f8b4d4-8a7c-4c77-9a41-0cfaeabf5f3e.gif" width="100%" />
-
-## 🧠 Cyber Mindset
-> 💬 *"In a world full of vulnerabilities, be the one who secures it."*  
-> — Madhan P
-
-<img src="https://user-images.githubusercontent.com/74038190/212284079-56f8b4d4-8a7c-4c77-9a41-0cfaeabf5f3e.gif" width="100%" />
-
-## 🖥️ Terminal
-
 ```bash
-$ whoami
-> Madhan P
-
-$ role
-> Cybersecurity Analyst | Data Analyst
-
-$ skills
-> Python, Threat Hunting, Malware Analysis, Data Visualization
-
-$ mission
-> Secure systems & turn data into insights.
+[ STATUS ] >> Building | Securing | Automating | Analyzing
